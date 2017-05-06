@@ -7,18 +7,18 @@ setup(
     author = "Jose Abell",
     author_email = "info@joseabell.com",
     url = "http://www.joseabell.com",
-    download_url = "tbd",
+    download_url = "http://github.com/amanabt/gmshtranslator",
     keywords = ["parsing", "gmsh", "msh", "mesh generation"],
     classifiers = [
         "Programming Language :: Python",
         "Programming Language :: Python :: 2",
-        "Development Status :: Beta",
+        "Programming Language :: Python :: 3",
+        "Development Status :: 4 - Beta",
         "Environment :: Other Environment",
-        "Intended Audience :: GMSH Users",
-        "License :: GPL",
+        "Intended Audience :: Science/Research",
+        "License :: OSI Approved :: GNU General Public License (GPL)",
         "Operating System :: OS Independent",
-        "Topic :: TBD",
-        "Topic :: TBD2",
+        "Topic :: Scientific/Engineering :: Physics"
         ],
     long_description = """\
 gmshtranslator
