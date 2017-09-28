@@ -1,26 +1,25 @@
-gmshtranslator
-==============
+# gmshtranslator
 
 ### Table of contents
 
 [toc]
 
-###Introduction
+### Introduction
 
 Parse [gmsh](geuz.org/gmsh) `.msh` files and execute python code accordingly. Most useful to 
 translate `.msh` files into other file formats or into input for simulation software.
 
-###Requirements
+### Requirements
 
 `gmshtranslator` uses scipy. Obtain [here](http://www.scipy.org/).
 
-###Installation
+### Installation
 
 Run
 	
 	python setup.py install
 
-###Usage
+### Usage
 
 `gmshtranslator` works by parsing a gmsh mesh in the `.msh` format. Initialize by calling
 
